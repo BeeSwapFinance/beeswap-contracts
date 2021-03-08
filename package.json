@@ -1,8 +1,9 @@
 {
-  "name": "goldengoose",
+  "name": "beeswap",
   "version": "1.0.0",
   "license": "MIT",
   "devDependencies": {
+    "@openzeppelin/cli": "^2.8.2",
     "@openzeppelin/contracts": "^3.1.0",
     "@openzeppelin/contracts-upgradeable": "^3.4.0",
     "@openzeppelin/test-helpers": "^0.5.10",
